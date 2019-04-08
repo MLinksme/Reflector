@@ -2,4 +2,4 @@
 在HTML里跑C#
 
 ## 调用
-><csharp src="Res/MyProgram.dll"/>(插入这句话就ok)
+>&lt;csharp src="Res/MyProgram.dll"/&gt;(插入这句话就ok)
