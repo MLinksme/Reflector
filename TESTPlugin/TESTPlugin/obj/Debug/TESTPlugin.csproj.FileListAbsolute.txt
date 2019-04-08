@@ -1,0 +1,7 @@
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\bin\Debug\TESTPlugin.dll
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\bin\Debug\TESTPlugin.pdb
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\bin\Debug\Reflector.dll
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\bin\Debug\Reflector.pdb
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\obj\Debug\TESTPlugin.csprojResolveAssemblyReference.cache
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\obj\Debug\TESTPlugin.dll
+D:\Chocolate\Projects\CSharp\TESTPlugin\TESTPlugin\obj\Debug\TESTPlugin.pdb
